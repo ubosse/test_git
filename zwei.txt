@@ -1,1 +1,3 @@
 initial commit in zwei.txt
+hier kommt jetzt ein Konflikt !!
+
