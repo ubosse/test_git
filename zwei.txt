@@ -1,5 +1,6 @@
 initial commit in zwei.txt
 konflikt behoben.
 verändert in b2
+in b3 ergänut
 
-
+--Master----------------------

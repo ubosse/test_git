@@ -1,0 +1,5 @@
+Diese Datei wurde im Branch b3 hinzugefügt.
+diese Zeile ist lokal entstanden.
+diese Zeile wurde in remote hinzugefügt. Dadurch wurde das ganze inkonsistent.
+ja, das ist auch in origin angekommen. Ist das nicht großartig??
+--Master----------------------

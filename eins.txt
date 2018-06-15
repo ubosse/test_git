@@ -1,2 +1,14 @@
 da kommt jetzt aber was drauf in master.
 initial commit in eins.txt
+und master ergänzt nochmal nach dem tollen synchro.
+dies wird jetzt auf origin ergänzt
+und dies lokal im master-Branc
+und schon wieder im origin was dazu.
+
+# ab hier kommen lauter kleine Änderungen
+erste Äderung
+zweite Änderung
+# weitere Änderungen
+zweite Änderung nach mini2
+dritte Änderung nach mini2
+vierte Änderung.
