@@ -6,4 +6,4 @@ und dies lokal im master-Branc
 und schon wieder im origin was dazu.
 # ab hier kommen lauter kleine Änderungen
 erste Äderung
-zweite Änderunge
+zweite Änderung
