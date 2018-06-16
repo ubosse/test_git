@@ -7,3 +7,7 @@ und schon wieder im origin was dazu.
 # ab hier kommen lauter kleine Änderungen
 erste Äderung
 zweite Änderung
+# weitere Änderungen
+zweite Änderung nach mini2
+dritte Änderung nach mini2
+vierte Änderung.
