@@ -1,4 +1,3 @@
 initial commit in drei.txt
 Ergänzung in master jauuuu
--------------
---Master----------------------
+und nun eine auf fuji erstellte Änderung in eins.txt
